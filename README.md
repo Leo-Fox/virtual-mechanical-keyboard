@@ -1,4 +1,4 @@
-# ⌨️ Viertual Mechanical Keyboard
+# ⌨️ Virtual Mechanical Keyboard
 
 This is a simulator program, it recreates mechanical keyboard sound effects with python.
 
