@@ -9,7 +9,7 @@ def on_press(key):
     elif sys.argv[1] == 'smash':
         random_choice = choice(['1', '2', '3', '4'])
 
-    playsound(f"./{sys.argv[1]}{random_choice}.wav", False)
+    playsound(f"./sounds/{sys.argv[1]}{random_choice}.wav", False)
 
 
 with Listener(on_press=on_press) as listener:
