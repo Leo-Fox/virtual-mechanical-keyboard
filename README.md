@@ -2,7 +2,9 @@
 
 This is a simulator program, it recreates mechanical keyboard sound effects with python.
 
-## How to run this crap?
+[YouTube video that I made this repo for](https://www.youtube.com/watch?v=GQvYCAEvT7k)
+
+## 🤔 How to run this crap?
 ```python
 # First you have to install the dependencies
 $ pip install -r requirements.txt
